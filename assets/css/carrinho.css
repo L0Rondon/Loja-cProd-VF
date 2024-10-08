@@ -71,6 +71,11 @@ button {
   font-size: 16px; /* Tamanho da fonte */
 }
 
+label {
+  margin-bottom: 5px; /* Espaçamento inferior */
+  font-weight: bold; /* Negrito para o texto */
+}
+
 img{
     margin: 25px;
       width: 120px;
